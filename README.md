@@ -1,2 +1,5 @@
-# tuya-iotos-embedded-gw-integrated-sdk
-Tuya IoT OS Embedded GW Integrated SDK
+# Tuya IoTOS All-in-One Gateway SDK
+
+[English](./README.md) | [中文](./README_zh.md)
+
+## Overview
